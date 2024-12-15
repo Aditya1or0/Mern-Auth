@@ -1,4 +1,4 @@
-# AuthiFy
+# AuthiFy 🔐
 
 **Project Name**: AuthiFy  
 **Created by**: [Aditya1or0](https://github.com/Aditya1or0)  
@@ -13,7 +13,7 @@ This app uses OTP (One-Time Password) functionality for both **email verificatio
 
 ---
 
-## Features
+## 🚀 Features
 
 - **User Registration**: Users can sign up with their email and password.
 - **Email Verification**: After registration, users receive an OTP to their email to verify their account.
@@ -22,7 +22,7 @@ This app uses OTP (One-Time Password) functionality for both **email verificatio
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
 - **Frontend**:
   - React.js
@@ -39,7 +39,7 @@ This app uses OTP (One-Time Password) functionality for both **email verificatio
   
 ---
 
-## Setup and Installation
+## 🚦Setup and Installation
 
 ### Prerequisites
 Make sure you have the following installed on your local machine:
@@ -146,13 +146,13 @@ Once both the frontend and backend servers are running, you can access the app o
 
 ---
 
-## License
+## 📄 License
 
 This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## Contributions
+## 🤝 Contributions
 
 Contributions are welcome! Feel free to fork this repository, create an issue, or submit a pull request.
 
@@ -162,6 +162,6 @@ Contributions are welcome! Feel free to fork this repository, create an issue, o
 For any inquiries or feedback, feel free to reach out to me:
 
 - GitHub: [Aditya1or0](https://github.com/Aditya1or0)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](mailto:adityapandit264@gmail.com)
 
 ---
