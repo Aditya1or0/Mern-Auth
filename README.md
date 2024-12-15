@@ -142,7 +142,7 @@ Once both the frontend and backend servers are running, you can access the app o
 ![OTP Page](client/src/assets/screenshot/otp.png)
 
 ### Password Reset Page
-![Reset Page](client/src/assets/screenshots/reset.png)
+![Reset Page](client/src/assets/screenshot/reset.png)
 
 ---
 
